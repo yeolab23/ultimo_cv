@@ -3,7 +3,12 @@ body {
 font-family: 'Roboto', sans-serif;
 }
 
-
+.carousel-item img { 
+    background-position: cover;
+    width: auto;
+    height: auto;
+    
+}
 
 
 
